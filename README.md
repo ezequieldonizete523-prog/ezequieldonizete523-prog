@@ -1,179 +1,227 @@
+``html
+<!-- =========================================================
+     README DO PERFIL - EZEQUIEL DONIZETE
+     Tema inspirado no universo místico do Doutor Estranho
+========================================================== -->
+
 <div align="center">
 
-# 👋 Olá, eu sou o <span style="color:#8A2BE2">Ezequiel Donizete Pereira da Silva</span>!
+🔮 Ezequiel Donizete Pereira da Silva 🔮
+Desenvolvedor de Sistemas em formação
 
-### 💻 Estudante de Desenvolvimento de Sistemas | 🚀 Em busca de Freelas, Jovem Aprendiz e Estágio
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+universo+de+desenvolvimento!;Transformando+ideias+em+c%C3%B3digo...;Aprendendo%2C+evoluindo+e+criando+todos+os+dias.;O+c%C3%B3digo+abre+portais+para+novas+possibilidades!" alt="Apresentação animada" />
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ezequiel%20Donizete&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Futuro%20Desenvolvedor%20de%20Sistemas&descAlignY=65)
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&text=%E2%9C%A6%20Mestre%20das%20Artes%20do%20C%C3%B3digo%20%E2%9C%A6&height=80&fontSize=28&animation=twinkling" alt="Mestre das Artes do Código" />
 
 </div>
 
----
+🌀 Sobre mim
 
-## 🧑‍🎓 Sobre Mim
+`python
+class Ezequiel:
+    def init(self):
+        self.nome = "Ezequiel Donizete Pereira da Silva"
+        self.idade = 16
+        self.formacao = "Técnico em Desenvolvimento de Sistemas"
+        self.status = "Em andamento"
+        self.objetivos = ["Freelancer", "Jovem Aprendiz", "Estágio"]
+        self.foco = "Aprender, evoluir e construir uma carreira sólida"
+
+    def abrirportal(self):
+        return "Transformando conhecimento em novas possibilidades 🔮"
+`
+
+| 🔮 Informação | ✨ Detalhes |
+|---|---|
+| 🟣 Nome completo | Ezequiel Donizete Pereira da Silva |
+| 🟢 Idade | 16 anos |
+| 🔵 Formação atual | Curso técnico em Desenvolvimento de Sistemas |
+| 🟠 Objetivo | Freelancer, jovem aprendiz ou estágio em tecnologia |
+| 🟡 Foco | Aprender, evoluir e construir uma carreira sólida em programação |
+
+🎯 Objetivos profissionais
 
 <table>
 <tr>
-<td>
+<td align="center" width="33%">
 
-🟣 **Nome completo:** Ezequiel Donizete Pereira da Silva  
-🟢 **Idade:** 16 anos  
-🔵 **Formação atual:** Curso técnico em **Desenvolvimento de Sistemas** (em andamento)  
-🟠 **Objetivo:** Vaga de **freelancer**, **jovem aprendiz** ou **estágio** na área de tecnologia  
-🟡 **Foco:** Aprender, evoluir e construir uma carreira sólida em programação  
+💼 Freelancer
+
+Projetos de programação, desenvolvimento e organização.
+
+</td>
+<td align="center" width="33%">
+
+🌟 Jovem Aprendiz
+
+Primeira experiência formal no mercado de trabalho.
+
+</td>
+<td align="center" width="33%">
+
+🏢 Estágio
+
+Aplicação prática dos conhecimentos técnicos.
 
 </td>
 </tr>
 </table>
 
-> 💜 *"O sucesso é a soma de pequenos esforços repetidos dia após dia. Estudar é plantar hoje a árvore que dará frutos amanhã."* 🌱📚
+📚 Cursos e capacitações em andamento
 
----
+| 📖 Curso | 🏫 Instituição | 📌 Status |
+|---|---|---|
+| 💻 Desenvolvimento de Sistemas - Técnico | Curso Técnico | 🟢 Em andamento |
+| 🤝 Soft Skills: liderança, organização e trabalho em equipe | Wadhwani Foundation 🇨🇦 | 🟢 Em andamento |
+| 🗣️ Inglês | Curso de Idiomas | 🟢 Em andamento |
 
-## 🎯 Objetivo Profissional
+🪄 Habilidades técnicas
+🔤 Linguagens que estou aprendendo
+
+> Conhecimentos em nível básico, evoluindo todos os dias!
 
 <div align="center">
 
-| 💼 Freelancer | 🌟 Jovem Aprendiz | 🏢 Estágio |
-|:---:|:---:|:---:|
-| Projetos de programação e organização | Primeira experiência formal no mercado | Aplicação prática dos conhecimentos técnicos |
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode&theme=dark" alt="Tecnologias e ferramentas" />
 
 </div>
 
----
-
-## 📚 Cursos e Capacitações em Andamento
-
-<table>
-<tr>
-<th>📖 Curso</th>
-<th>🏫 Instituição</th>
-<th>📌 Status</th>
-</tr>
-<tr>
-<td>💻 Desenvolvimento de Sistemas (Técnico)</td>
-<td>Curso Técnico</td>
-<td>🟢 Em andamento</td>
-</tr>
-<tr>
-<td>🤝 Soft Skills (Liderança, Organização, Trabalho em Equipe)</td>
-<td>🇨🇦 Wadhwani Foundation</td>
-<td>🟢 Em andamento</td>
-</tr>
-<tr>
-<td>🗣️ Inglês</td>
-<td>Curso de Idiomas</td>
-<td>🟢 Em andamento</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Habilidades Técnicas (Skills)
+🐍 Linguagem com foco aprofundado
 
 <div align="center">
 
-### 🔤 Linguagens que estou aprendendo (nível básico, evoluindo todo dia!)
+<img height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Portugol](https://img.shields.io/badge/Portugol-6A0DAD?style=for-the-badge&logo=codeigniter&logoColor=white)
+Python
 
-### 🐍 Linguagem com foco mais aprofundado
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+Lógica de programação · Automação · Resolução de problemas · Projetos acadêmicos
 
 </div>
 
----
+🧠 Grimório de conhecimentos
 
-## 🌟 Soft Skills
+`text
+╔══════════════════════════════════════════════════════╗
+║              GRIMÓRIO DO DESENVOLVEDOR              ║
+╠══════════════════════════════════════════════════════╣
+║  🐍 Python                 [██████░░░░] Evoluindo   ║
+║  🌐 HTML e CSS             [████░░░░░░] Aprendendo  ║
+║  ⚡ JavaScript             [███░░░░░░░] Aprendendo  ║
+║  🗄️ Banco de Dados         [███░░░░░░░] Aprendendo  ║
+║  🔧 Git e GitHub           [████░░░░░░] Praticando  ║
+╚══════════════════════════════════════════════════════╝
+`
+
+🤝 Soft skills
 
 <div align="center">
 
-🟣 Liderança &nbsp;&nbsp;|&nbsp;&nbsp; 🟢 Organização &nbsp;&nbsp;|&nbsp;&nbsp; 🔵 Trabalho em Equipe &nbsp;&nbsp;|&nbsp;&nbsp; 🟠 Comunicação &nbsp;&nbsp;|&nbsp;&nbsp; 🟡 Proatividade
+!Liderança
+!Organização
+!Trabalho em Equipe
+!Comunicação
+!Proatividade
 
 </div>
 
----
+💼 Experiências
+🛍️ Vendas
 
-## 💼 Experiências
+Atuação prática com atendimento ao cliente, comunicação e negociação.
 
-<table>
-<tr>
-<td>
+🏢 Organização empresarial e de microempresas
 
-🛍️ **Vendas** — Atuação prática com atendimento e negociação  
-🏢 **Organização empresarial e de microempresas** — Apoio em processos administrativos e organizacionais  
+Apoio em processos administrativos, planejamento e organização empresarial.
 
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Participações e Conquistas Escolares/Acadêmicas
-
-<div align="center">
+🏆 Participações e conquistas escolares e acadêmicas
 
 | 🎖️ Nível | 🏅 Participação |
-|:---|:---|
+|---|---|
 | 🏫 Escolar | Projetos e trabalhos escolares diversos |
-| 🤝 Interescolar | Trabalhos em conjunto com outras escolas |
+| 🤝 Interescolar | Trabalhos realizados em conjunto com outras escolas |
 | 🏙️ Municipal | Competições e projetos municipais |
-| 🗺️ Regional | **Olimpíada Regional de Python** 🐍🏆 |
+| 🗺️ Regional | Olimpíada Regional de Python 🐍🏆 |
 | 🌎 Estadual | Projetos e competições estaduais |
-| 👑 Programas | Estudante de Atitude, Jovem Protagonista |
+| 👑 Programas | Estudante de Atitude e Jovem Protagonista |
 | 🚗 Competição | Grand Prix |
 
-</div>
-
----
-
-## 📈 Meu Momento Atual
-
-```
-
-📌 Curso Técnico:        ▓▓▓▓▓▓▓▓░░░░░░░░  Em andamento
-📌 Inglês:                ▓▓▓▓▓░░░░░░░░░░░  Em andamento
-📌 Soft Skills Wadhwani:  ▓▓▓▓▓▓▓▓▓▓░░░░░░  Em andamento
-📌 Python (aprofundado):  ▓▓▓▓▓▓▓░░░░░░░░░  Evoluindo
-📌 C#, HTML, CSS, JS, SQL:▓▓▓▓░░░░░░░░░░░░  Básico, em crescimento
-
-```
-
----
-
-## 💡 Frase que me Motiva
+📊 Estatísticas do meu multiverso
 
 <div align="center">
 
-### 🌟 *"A educação é a arma mais poderosa que você pode usar para mudar o mundo."* — Nelson Mandela 🌍✨
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&showicons=true&theme=midnight-purple&hideborder=true&titlecolor=a855f7&iconcolor=f97316&textcolor=ffffff&bgcolor=0d1117" alt="Estatísticas do GitHub" />
 
-**Estudar hoje é construir, com esforço e dedicação, o profissional que serei amanhã. 🚀📘**
-
-</div>
-
----
-
-## 📬 Contato
-
-<div align="center">
-
-📧 *(adicione seu e-mail aqui)*  
-📱 *(adicione seu WhatsApp/telefone aqui)*  
-🔗 *(adicione seu LinkedIn aqui)*  
-💻 *(adicione seu GitHub aqui)*
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=midnight-purple&hideborder=true&titlecolor=a855f7&textcolor=ffffff&bgcolor=0d1117" alt="Linguagens mais utilizadas" />
 
 </div>
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
-
-**🙌 Obrigado por conhecer um pouco da minha trajetória! Estou pronto para aprender, crescer e contribuir! 🚀**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=midnight-purple&hideborder=true&background=0D1117&ring=A855F7&fire=F97316&currStreakLabel=A855F7" alt="Sequência de contribuições" />
 
 </div>
+
+> ⚠️ Substitua todas as ocorrências de SEU-USUARIO pelo seu nome de usuário do GitHub.
+
+👾 Pixel art mística
+
+`text
+                  ✦       .        ✧
+          .              🟣
+                    ╭─────────╮
+              ✦    │  ◉   ◉  │
+                   │    ▲    │
+             🟠 ═══│  ╰───╯  │═══ 🟠
+                   ╰────┬────╯
+                      ╭─┴─╮
+                 ╭────┤ ◈ ├────╮
+                 │    ╰───╯    │
+                 │  MESTRE DO  │
+                 │    CÓDIGO   │
+                 ╰──────┬──────╯
+                       ╱ ╲
+                      ╱   ╲
+             ✧       ◉     ◉       ✦
+
+        "O código abre portais para infinitas possibilidades."
+`
+
+🧿 Portais de contato
+
+<div align="center">
+
+![LinkedIn](COLOQUE-SEU-LINK-AQUI)
+![E-mail](mailto:COLOQUE-SEU-EMAIL-AQUI)
+![GitHub](https://github.com/SEU-USUARIO)
+
+</div>
+
+<div align="center">
+
+🔮 Minha jornada está apenas começando...
+
+> “Conhecimento é o portal. A prática é a chave.  
+> E cada linha de código é um passo em direção ao futuro.”
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Viajantes%20do%20Multiverso&color=7c3aed&style=for-the-badge" alt="Contador de visitantes" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24&height=120&section=footer" width="100%" alt="Rodapé" />
+
+</div>
+`
+
+Antes de publicar, substitua estes campos:
+
+| Campo | Substituição |
+|---|---|
+| SEU-USUARIO | Seu usuário real do GitHub |
+| COLOQUE-SEU-LINK-AQUI | URL do seu perfil no LinkedIn |
+| COLOQUE-SEU-EMAIL-AQUI` | Seu endereço profissional de e-mail |
+
+Por você ter 16 anos, é mais seguro não incluir telefone, endereço, escola específica ou outras informações pessoais sensíveis no perfil público.
