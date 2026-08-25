@@ -1,28 +1,77 @@
-Nenhum arquivo escolhido
-Bem, quero um Readme para o github pessoal mesmo. queria que ele fosse bem trabalhadinho e que ele tivesse o tema de doutor estranho da marvel, tipo com artes e pixelarts do Dr. Estranho nel. e com os dados a seguir que são indispensaveis de estarem no meio de REadme: Ezequiel Donizete Pereira da Silva!, Sobre Mim
+<!-- 🧙‍♂️ README do Multiverso — Doutor Estranho -->
+<p align="center">
+  <img src="https://bty-reactus-resource-prod.s3.us-east-1.amazonaws.com/reactus/llm_server/10f69796257642f7a4ecc7cae2139fbb/image2/c21725ef19c64fe19785cbcae2aea1f7.png" alt="Ezequiel, aprendiz do multiverso da programação" width="100%" />
+</p>
 
-🟣 Nome completo: Ezequiel Donizete Pereira da Silva
-🟢 Idade: 16 anos
-🔵 Formação atual: Curso técnico em Desenvolvimento de Sistemas (em andamento)
-🟠 Objetivo: Vaga de freelancer, jovem aprendiz ou estágio na área de tecnologia
-🟡 Foco: Aprender, evoluir e construir uma carreira sólida em programação, Objetivo Profissional
+<p align="center">
+  <img src="https://bty-reactus-resource-prod.s3.us-east-1.amazonaws.com/reactus/llm_server/10f69796257642f7a4ecc7cae2139fbb/image2/77e475db5d674916934caff93cec3db2.png" alt="Avatar pixel art" width="140" />
+</p>
 
-💼 Freelancer🌟 Jovem Aprendiz🏢 EstágioProjetos de programação e organizaçãoPrimeira experiência formal no mercadoAplicação prática dos conhecimentos técnicos, Cursos e Capacitações em Andamento
+<h1 align="center">🧙‍♂️ Bem-vindo ao Multiverso de Ezequiel 🧙‍♂️</h1>
 
-📖 Curso🏫 Instituição📌 Status💻 Desenvolvimento de Sistemas (Técnico)Curso Técnico🟢 Em andamento🤝 Soft Skills (Liderança, Organização, Trabalho em Equipe)🇨🇦 Wadhwani Foundation🟢 Em andamento🗣️ InglêsCurso de Idiomas🟢 Em andamento,Habilidades Técnicas (Skills)
+<p align="center">
+  <b>Ezequiel Donizete Pereira da Silva</b><br/>
+  Aprendiz do Multiverso da Programação 💫
+</p>
 
-🔤 Linguagens que estou aprendendo (nível básico, evoluindo todo dia!)
+---
 
-     
-🐍 Linguagem com foco mais aprofundado
+## 🟣 Sobre Mim
 
-Soft Skills
+- 🟣 **Nome completo:** Ezequiel Donizete Pereira da Silva
+- 🟢 **Idade:** 16 anos
+- 🔵 **Formação atual:** Curso técnico em Desenvolvimento de Sistemas *(em andamento)*
+- 🟠 **Objetivo:** Vaga de freelancer, jovem aprendiz ou estágio na área de tecnologia
+- 🟡 **Foco:** Aprender, evoluir e construir uma carreira sólida em programação
 
-🟣 Liderança   |   🟢 Organização   |   🔵 Trabalho em Equipe   |   🟠 Comunicação   |   🟡 Proatividade,xperiências
+## 💼 Objetivo Profissional
 
-🛍️ Vendas — Atuação prática com atendimento e negociação
-🏢 Organização empresarial e de microempresas — Apoio em processos administrativos e organizacionaisParticipações e Conquistas Escolares/Acadêmicas
+| 💼 Oportunidade | 📌 Detalhe |
+| :--- | :--- |
+| 💼 **Freelancer** | Projetos de programação e organização |
+| 🌟 **Jovem Aprendiz** | Primeira experiência formal no mercado |
+| 🏢 **Estágio** | Aplicação prática dos conhecimentos técnicos |
 
-🎖️ Nível🏅 Participação🏫 EscolarProjetos e trabalhos escolares diversos🤝 InterescolarTrabalhos em conjunto com outras escolas🏙️ MunicipalCompetições e projetos municipais🗺️ RegionalOlimpíada Regional de Python 🐍🏆🌎 EstadualProjetos e competições estaduais👑 ProgramasEstudante de Atitude, Jovem Protagonista🚗 CompetiçãoGrand Prix,
+## 📚 Cursos e Capacitações em Andamento
 
+| 📖 Curso | 🏫 Instituição | 📌 Status |
+| :--- | :--- | :---: |
+| 💻 Desenvolvimento de Sistemas (Técnico) | Curso Técnico | 🟢 Em andamento |
+| 🤝 Soft Skills (Liderança, Organização, Trabalho em Equipe) | Wadhwani Foundation | 🟢 Em andamento |
+| 🗣️ Inglês | Curso de Idiomas | 🟢 Em andamento |
 
+## 🛠️ Habilidades Técnicas (Skills)
+
+**Linguagens que estou aprendendo** *(nível básico, evoluindo todo dia!)*
+
+- 💻 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🐍 Python — *linguagem com foco mais aprofundado*
+
+**Soft Skills**
+
+> 🟣 Liderança &nbsp;|&nbsp; 🟢 Organização &nbsp;|&nbsp; 🔵 Trabalho em Equipe &nbsp;|&nbsp; 🟠 Comunicação &nbsp;|&nbsp; 🟡 Proatividade
+
+## 🧭 Experiências
+
+- 🛍️ **Vendas** — Atuação prática com atendimento e negociação
+- 🏢 **Organização empresarial e de microempresas** — Apoio em processos administrativos e organizacionais
+
+## 🏆 Participações e Conquistas Escolares/Acadêmicas
+
+| 🎖️ Nível | 🏅 Participação |
+| :--- | :--- |
+| 🏫 Escolar | Projetos e trabalhos escolares diversos |
+| 🤝 Interescolar | Trabalhos em conjunto com outras escolas |
+| 🏙️ Municipal | Competições e projetos municipais |
+| 🗺️ Regional | Olimpíada Regional de Python 🐍🏆 |
+| 🌎 Estadual | Projetos e competições estaduais |
+| 👑 Programas | Estudante de Atitude, Jovem Protagonista |
+| 🚗 Competição | Grand Prix |
+
+---
+
+<p align="center">
+  <i>“A magia acontece quando a gente acredita e se dedica todos os dias.”</i> ✨
+</p>
